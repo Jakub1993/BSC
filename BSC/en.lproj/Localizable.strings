@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  BSC
+
+  Created by Jakub Louda on 27.07.18.
+  Copyright © 2018 BSC Louda. All rights reserved.
+*/
+
+"Delete" = "Delete";
+"Notes" = "Notes";
+"Language" = "Language";
+"Add" = "Add";
+"Create" = "Create";
+"New note" = "New note";
+"Edit" = "Edit";
+"Note" = "Note";
+"Choose language" = "Choose language";
+"Changes will be applied after restart" = "Changes will be applied after restart";
+"English" = "English";
+"Czech" = "Czech";
+"Japan" = "Japan";
+"Deutch" = "Deutch";
+"Cancel" = "Cancel";
+
